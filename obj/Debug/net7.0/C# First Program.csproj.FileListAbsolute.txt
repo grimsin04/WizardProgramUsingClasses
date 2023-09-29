@@ -1,0 +1,14 @@
+C:\Users\lucid\Desktop\C# First Program\bin\Debug\net7.0\C# First Program.exe
+C:\Users\lucid\Desktop\C# First Program\bin\Debug\net7.0\C# First Program.deps.json
+C:\Users\lucid\Desktop\C# First Program\bin\Debug\net7.0\C# First Program.runtimeconfig.json
+C:\Users\lucid\Desktop\C# First Program\bin\Debug\net7.0\C# First Program.dll
+C:\Users\lucid\Desktop\C# First Program\bin\Debug\net7.0\C# First Program.pdb
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\C# First Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\C# First Program.AssemblyInfoInputs.cache
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\C# First Program.AssemblyInfo.cs
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\C# First Program.csproj.CoreCompileInputs.cache
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\C# First Program.dll
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\refint\C# First Program.dll
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\C# First Program.pdb
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\C# First Program.genruntimeconfig.cache
+C:\Users\lucid\Desktop\C# First Program\obj\Debug\net7.0\ref\C# First Program.dll
